@@ -6,7 +6,7 @@
 // base
 @import "./base/normalize";
 
-@import "fonts";
+// @import "fonts";
 @import "./base/button";
 @import "./base/sections";
 @import "./base/tipography";
@@ -16,30 +16,13 @@
 
 // sections
 
-@import "./sections/main";
-@import "./sections/menu";
-@import "./sections/gallery";
-@import "./sections/events";
-@import "./sections/bonus";
+
 /* page banquets*/
-@import "./sections/event";
-@import "./sections/offers";
-@import "./sections/banquets";
-@import "./sections/solution";
-@import "./sections/form";
-@import "./components/event-slider";
+
 
 
 
 // block
 @import "./blocks/header";
-
-@import "./blocks/drop-down";
-@import "./blocks/menu-item";
-@import "./blocks/events-item";
-@import "./blocks/eventscontrol";
-
-
-
 
 @import "./blocks/footer";
