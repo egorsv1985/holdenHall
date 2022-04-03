@@ -8,6 +8,7 @@
 
 @import "fonts";
 @import "./base/button";
+@import "./base/logo";
 @import "./base/sections";
 @import "./base/tipography";
 
@@ -24,5 +25,6 @@
 
 // block
 @import "./blocks/header";
+@import "./blocks/burger";
 
 @import "./blocks/footer";

@@ -1,0 +1,15 @@
+.logo {
+
+	// .logo__link
+	&__link {}
+
+	// .logo__img
+	&__img {
+		width: 100px;
+		height: 45px;
+		@media (min-width:1280px){
+			width: 215px;
+			height: 95px;
+		}
+	}
+}
